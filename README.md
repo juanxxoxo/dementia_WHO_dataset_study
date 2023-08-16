@@ -47,5 +47,4 @@ Contributions to this project are welcome. If you have suggestions, improvements
 ![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/4cd59f50-6e68-4ed2-b0d3-1ac32ef8462b)
 - Prevention is far less compared to awareness campaigns
 
-[Placeholder for Additional Images and Descriptions]
 

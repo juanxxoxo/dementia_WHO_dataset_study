@@ -40,7 +40,7 @@ Contributions to this project are welcome. If you have suggestions, improvements
 
 ---
 
-(![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/3e49c11a-9111-4b97-8f96-f6bd1a1f53b8)
+![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/3e49c11a-9111-4b97-8f96-f6bd1a1f53b8)
 - Top country with published researches is Australia with 70
 - 3 European countries in the top 5: France, Netherlands, Sweden
 

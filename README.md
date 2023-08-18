@@ -47,4 +47,14 @@ Contributions to this project are welcome. If you have suggestions, improvements
 ![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/4cd59f50-6e68-4ed2-b0d3-1ac32ef8462b)
 - Prevention is far less compared to awareness campaigns
 
+![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/c6767eed-567a-4064-b0fc-a7f3737b3dc5)
+- There is an increase of the 0.10 of Alcohol Consumption in the last 5 years compared to the first 5 years
+
+![image](https://github.com/juanxxoxo/dementia_WHO_dataset_study/assets/112973440/abbb4623-7fb5-4aed-a3cd-c07126b3e570)
+- In 2016 women performed more physical activity than men overall
+- Women performed more physical activy in the 7 major regions of the world significantlly
+
+
+
+
 
